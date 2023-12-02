@@ -1,0 +1,25 @@
+Orientação para consulta médica
+
+Este programa em Python permite que usuários identifiquem possíveis doenças com base nos sintomas inseridos. Além disso, fornece informações úteis, como a área médica associada à doença, um hospital recomendado, endereço do hospital, convênio e um doutor disponível.
+
+Como Utilizar
+1 - Execute o script consulta_medica.py em um ambiente Python.
+2 - O programa apresentará uma lista de sintomas disponíveis. Escolha a quantidade de sintomas que deseja inserir (de 1 a 3).
+3 - Insira os sintomas desejados quando solicitado. O programa realizará uma análise para identificar possíveis doenças.
+4 - Após a identificação das doenças, o programa pedirá informações adicionais, como a região onde o usuário mora.
+5 - Insira a região (zona norte, sul, leste ou oeste) e o convênio (verde, amarelo ou azul) quando solicitado.
+6 - O programa fornecerá informações finais, incluindo a doença mais provável, área médica, hospital recomendado, endereço do hospital, convênio, doutor disponível e dias de atendimento.
+
+Requisitos:
+
+Python 3.x
+
+Notas:
+
+1- O programa utiliza dados fictícios para hospitais, endereços, convênios e doutores.
+2 - As áreas médicas associadas às doenças também são fictícias e podem ser ajustadas conforme necessário.
+3 - Certifique-se de inserir respostas válidas durante a interação com o programa para obter resultados precisos.
+
+Alunos:
+Victor Henrique Vilares Rodrigues / RM: 554175
+Larissa Estella / RM:
